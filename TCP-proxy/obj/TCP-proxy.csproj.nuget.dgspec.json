@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projec\\pythonProject\\یوتیوب\\TCP-proxy\\TCP-proxy.csproj": {}
+  },
+  "projects": {
+    "D:\\projec\\pythonProject\\یوتیوب\\TCP-proxy\\TCP-proxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projec\\pythonProject\\یوتیوب\\TCP-proxy\\TCP-proxy.csproj",
+        "projectName": "TCP-proxy",
+        "projectPath": "D:\\projec\\pythonProject\\یوتیوب\\TCP-proxy\\TCP-proxy.csproj",
+        "packagesPath": "C:\\Users\\AsaGity\\.nuget\\packages\\",
+        "outputPath": "D:\\projec\\pythonProject\\یوتیوب\\TCP-proxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AsaGity\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\AsaGity\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

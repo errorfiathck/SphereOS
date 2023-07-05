@@ -1,0 +1,15 @@
+D:\projec\pythonProject\یوتیوب\TCP-proxy\bin\Debug\net7.0\TCP-proxy.exe
+D:\projec\pythonProject\یوتیوب\TCP-proxy\bin\Debug\net7.0\TCP-proxy.deps.json
+D:\projec\pythonProject\یوتیوب\TCP-proxy\bin\Debug\net7.0\TCP-proxy.runtimeconfig.json
+D:\projec\pythonProject\یوتیوب\TCP-proxy\bin\Debug\net7.0\TCP-proxy.dll
+D:\projec\pythonProject\یوتیوب\TCP-proxy\bin\Debug\net7.0\TCP-proxy.pdb
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\TCP-proxy.csproj.AssemblyReference.cache
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\TCP-proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\TCP-proxy.AssemblyInfoInputs.cache
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\TCP-proxy.AssemblyInfo.cs
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\TCP-proxy.csproj.CoreCompileInputs.cache
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\TCP-proxy.dll
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\refint\TCP-proxy.dll
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\TCP-proxy.pdb
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\TCP-proxy.genruntimeconfig.cache
+D:\projec\pythonProject\یوتیوب\TCP-proxy\obj\Debug\net7.0\ref\TCP-proxy.dll
